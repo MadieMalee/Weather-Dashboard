@@ -24,4 +24,4 @@ https://madiemalee.github.io/Weather-Dashboard/
 
 # Webpage Output
 
-![Weather Application](Weather App.png)
+![Weather Application] (WeatherApp.png)
