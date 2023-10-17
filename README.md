@@ -20,4 +20,8 @@ THEN I am again presented with current and future conditions for that city
 
 # Deployed URL for webpage
 
+https://madiemalee.github.io/Weather-Dashboard/
+
 # Webpage Output
+
+![Weather Application](Weather App.png)
